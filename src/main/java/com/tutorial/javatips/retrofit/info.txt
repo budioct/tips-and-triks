@@ -1,0 +1,2 @@
+retrofit adalah cara untuk membuat http client, jadi kita tidak perlu ngerti low level http clientnya secara manual
+jadi tidak capek capek membuat dari 0
